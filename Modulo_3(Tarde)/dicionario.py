@@ -1,4 +1,5 @@
 # Criando o dicionário com os dados do aluno
+# 36
 aluno = {
     'nome': 'Fabrício Araújo da Silva',
     'idade': 17,
